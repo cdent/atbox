@@ -1,0 +1,53 @@
+
+body {
+    min-height: 100%;
+    font-family: "Helvetica Neue",helvetica,arial,sans-serif;
+    line-height: 1.4;
+    font-size: 75%;
+}
+
+.box {
+}
+
+.box li {
+    text-align: center;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    margin-left: .5em;
+    margin-right: .5em;
+    margin-bottom: .5em;
+    overflow: hidden;
+    background: transparent;
+    border-radius: .5em;
+    box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.5);
+}
+
+a {
+    color: #BC4378;
+    text-decoration: none;
+}
+
+.modicon {
+    display: none;
+}
+
+.spaceicon {
+    height: 1.5em;
+    padding-right: .25em;
+    float: right;
+}
+
+.box a:hover {
+    text-decoration: underline;
+}
+
+.box abbr.timeago {
+    display: block;
+    font-style: italic;
+    font-size: 75%;
+}
+
+.box li:hover {
+    box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.5) inset;
+}
+

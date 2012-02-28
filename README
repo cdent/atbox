@@ -1,0 +1,6 @@
+
+atbox is an iframe-based widget for TiddlySpace that shows
+recently changed tiddlers that are addressed to the current
+space with a tag of {{{@<space name>>}}}.
+
+See http://atboxer.tiddlyspace.com/ for more info.

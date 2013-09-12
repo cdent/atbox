@@ -1,4 +1,6 @@
 
+_this code is out of date with what's deployed_
+
 atbox is an iframe-based widget for TiddlySpace that shows
 recently changed tiddlers that are addressed to the current
 space with a tag of {{{@<space name>>}}}.
